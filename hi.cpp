@@ -8,6 +8,6 @@ void add()
  cout<<c;
 }
 void main()
-{cout<<"hi";
+{cout<<"hi and bye";
  add();
 }
