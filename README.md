@@ -1,2 +1,1 @@
-# sample
-test program
+this is a test program
