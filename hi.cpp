@@ -1,13 +1,14 @@
 #include<iostream.h>
 #include<conio.h>
 #include<stdio.h>
-void add()
+void multiply()
 {int a,b,c;
  cin>>a,b;
- c=a+b;
+ c=a*b;
  cout<<c;
+ getch();
 }
 void main()
-{cout<<"hi and bye";
- add();
+{
+ multiply();
 }
